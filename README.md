@@ -44,6 +44,7 @@ zip -r function.zip .
 cron(* * * * *)
 ```
 12. Now everything's ready, now you should see something like this on your whatsapp, whenever the lambda function is invoked
+    
 ![Screenshot 2025-07-09 005409](https://github.com/user-attachments/assets/4083a006-a250-46ac-b81d-a1e23f2e1240)
 
 (in my case I set it to every 5 minutes lol)
