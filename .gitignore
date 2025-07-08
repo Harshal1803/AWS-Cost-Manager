@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.zip
+twilio/
+twilio_rest/
+*.dist-info/
+.env
