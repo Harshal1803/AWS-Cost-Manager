@@ -47,7 +47,7 @@ cron(* * * * *)
     
 ![Screenshot 2025-07-09 005409](https://github.com/user-attachments/assets/4083a006-a250-46ac-b81d-a1e23f2e1240)
 
-(in my case I set it to every 5 minutes lol)
+(in my case it was set to trigger the function after every 5 minute lol)
 
    
 
