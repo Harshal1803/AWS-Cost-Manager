@@ -20,6 +20,11 @@ pip install twilio -t .
 ```
 zip -r function.zip .
 ```
+**IF this is failing use..
+```
+Compress-Archive -Path * -DestinationPath function.zip
+```
+
 8. Now Deploy this zip file to the AWS Lambda function
 9. Add the environment variables for the credentials
 10. Add inline policy for this(in JSON)
